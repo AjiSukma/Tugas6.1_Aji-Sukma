@@ -1,0 +1,12 @@
+.container {
+    display: flex; 
+    justify-content: center;
+    gap: 20px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 10px;
+}
